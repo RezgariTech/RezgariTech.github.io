@@ -1,2 +1,2 @@
-# RezgariTech.github.io-
+# RezgariTech.github.io
 Rezgari Tech blog website
