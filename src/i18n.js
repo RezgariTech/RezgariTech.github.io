@@ -16,7 +16,6 @@ const resources = {
     softwareText: `In addition to websites and web apps, we also develop custom software, API integrations, and provide advice and support for digital challenges. 
       Everything you need for a future-proof IT infrastructure.`,
     projects: "Our projects",
-    projectsText: "Work in progress",
   } },
   nl: { translation: {
     name: "Welkom bij (Rezgari) Reza Tech",
@@ -32,7 +31,6 @@ const resources = {
       Alles wat je nodig hebt voor een toekomstbestendige IT-infrastructuur.`,
     contact: "Neem contact op",
     projects: "Onze Projecten",
-    projectsText: "Onze projecten zijn in ontwikkeling",
   } },
 };
 

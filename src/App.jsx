@@ -3,6 +3,8 @@ import Logo from "./assets/RezaTech.png";
 import WebsiteIcon from "./assets/Website.png";
 import WebAppIcon from "./assets/WebApp.png";
 import SoftwareIcon from "./assets/Software.png";
+import ProjectCard from './components/ProjectCard';
+import SweetnSour from './assets/Sweet & Sour Screen.png';
 
 function App() {
   const { t, i18n } = useTranslation();
@@ -11,6 +13,7 @@ function App() {
     const newLang = i18n.language === "en" ? "nl" : "en";
     i18n.changeLanguage(newLang);
   };
+
   return (
     <div className="font-sans bg-[#E6F6E6] text-[#2C2C2C] min-h-screen px-6 py-12">
       {/* Hero/About Section */}
@@ -19,7 +22,6 @@ function App() {
           src={Logo}
           alt="RezaTech Logo"
           className="w-48 h-48 md:w-56 md:h-56 shadow-xl object-contain border-4 border-[#4DA96B] bg-white"
-          // No rounded-full: square logo
         />
         <div className="max-w-xl text-center md:text-left">
           <h1 className="text-5xl font-extrabold mb-4 text-[#4DA96B]">
@@ -89,7 +91,12 @@ function App() {
           {t("projects")}
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {t("projectsText")}
+          <ProjectCard
+            image={SweetnSour}
+            title="Sweet and Sour Screen"
+            description="A review hub for movies and series — from brilliant masterpieces to laughably bad gems that circle back to greatness."
+            link="/sweet-and-sour-screen"
+          />
         </div>
       </section>
     </div>
