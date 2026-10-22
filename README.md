@@ -15,6 +15,8 @@ crisp pixel/3D art, and tight gameplay loops.
 | Game | Platform | Status | Link |
 | :--- | :--- | :--- | :--- |
 | **Pulseguard: NeoNet** | PC / Steam / Android | Released | [Store Page]([https://...](https://rezatechgames.github.io/pulseguard.html)) |
+
+## Upcoming roadmaps
 ```
 | **[Game Title 2]** | iOS / Android | In Development | [Devlog](https://...) |
 | **[Game Title 3]** | Web (HTML5) | Beta | [Play Now](https://...) |
