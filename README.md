@@ -33,10 +33,10 @@ crisp pixel/3D art, and tight gameplay loops.
 ---
 
 ## 🌐 Connect With Us
-* **Website:** [yourstudio.com](https://rezatechgames.github.io/)
+* **Website:** [RezgariTech.io](https://rezgaritech.github.io/)
 * **Discord:** [Join our community!](https://discord.gg/KQYAyjWXB)
 * **Contact:** `rezgaritech@gmail.com`
 
 ---
 
-© 2026 **Reza Tech**. All rights reserved.
+© 2026 **Rezgari Tech**. All rights reserved.
